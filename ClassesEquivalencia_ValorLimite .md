@@ -1,4 +1,5 @@
 # Atv – Particionamento em Classes de Equivalência e Análise do Valor Limite
+Aluna: Tâmara Thais Lourenço de Carvalho | Matricula: 20232014040040
 
 ---
 
